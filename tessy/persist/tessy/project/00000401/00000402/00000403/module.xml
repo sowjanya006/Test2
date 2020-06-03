@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="New Module" description="" specification="" comment="" id="1027" state_mask="0x03" uuid="f4e748a8-c3ca-4b57-b7d6-3a6cb512748f" environment="GNU GCC Eclipse CDT (Default)" parent_uuid="" variant_uuid="" last_modified="1591091258056" last_synchronized="0">
+	<version value="4.2.8">
+	</version>
+	<properties>
+		<property name="ASAP File" type="File" flags="0xC8000009" value="">
+		</property>
+		<property name="ASAP Module" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="ASAP Project" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Alternate Breakpoint" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Batchtest Wait Time" type="Number" flags="0x88000029" value="0">
+		</property>
+		<property name="Buffer Size" type="Number" flags="0xC8040029" value="10240">
+		</property>
+		<property name="Call Count Size" type="Number" flags="0xC8000029" value="8">
+		</property>
+		<property name="Check Call Trace Size" type="Number" flags="0xC8040009" value="">
+		</property>
+		<property name="Check Driver Layers" type="Number" flags="0xC8100009" value="">
+		</property>
+		<property name="Collect All Enums" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Collect const Variables" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Comm Buffer Integrity" type="Boolean" flags="0xC8040009" value="false">
+		</property>
+		<property name="Comm Checksum" type="Boolean" flags="0xC8040009" value="false">
+		</property>
+		<property name="Comm File Compression" type="Boolean" flags="0xC8040009" value="false">
+		</property>
+		<property name="Comm Transfer Limit" type="Number" flags="0xC8000009" value="0">
+		</property>
+		<property name="Compiler" type="String" flags="0x08000009" value="GNU GCC">
+		</property>
+		<property name="Compiler Call" type="String" flags="0xC8000009" value="gcc $(Compiler Dialect) -c $(USEROPTIONS) -DTESSY -o $(OUTPUT) $(INPUT)">
+		</property>
+		<property name="Compiler Commandline" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Compiler Concurrency" type="Number" flags="0xC8000089" value="0">
+		</property>
+		<property name="Compiler Defines" type="String" flags="0x98040009" value="">
+		</property>
+		<property name="Compiler Dialect" type="String" flags="0xC8040009" value="">
+		</property>
+		<property name="Compiler Id" type="Number" flags="0xC8100029" value="0x01">
+		</property>
+		<property name="Compiler Includes" type="Directory" flags="0x98040009" value="">
+		</property>
+		<property name="Compiler Install Path" type="Directory" flags="0x88040039" value="$(TESSY_MSYS_MINGW_ROOT)">
+		</property>
+		<property name="Compiler Version" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Component Test" type="Boolean" flags="0xC8000009" value="false">
+		</property>
+		<property name="Constructor Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Conversion DLL" type="String" flags="0xC8000009" value="none">
+		</property>
+		<property name="Declare Constructors List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Default Call Trace Evaluation" type="String" flags="0xC8000009" value="Ignore Call Trace">
+		</property>
+		<property name="Defines Exclude List" type="String" flags="0x88000009" value="*TESSY*, unix, _*, *i386*, *X86*, WIN32, WINNT">
+		</property>
+		<property name="Deleted Constructors List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Display Name" type="String" flags="0xC8000029" value="$(Compiler) --- $(Target) - $(Environment)">
+		</property>
+		<property name="Doxygen Executable" type="File" flags="0x88000009" value="">
+		</property>
+		<property name="Doxygen Input Encoding" type="String" flags="0x88000009" value="UTF-8">
+		</property>
+		<property name="Duplicated Defines Header" type="File" flags="0xD8040019" value="">
+		</property>
+		<property name="Enable ASAP" type="Boolean" flags="0x48000029" value="false">
+		</property>
+		<property name="Enable C0 Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable C1 Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable C99" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable CLANG" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable Collect Implicit Constructors" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable Create Default Constructors" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable Create Function Stubs" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Enable Create Method Stubs" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable DC Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable Define Variables" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable Doxygen" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Enable EPC Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable Exceptions" type="Boolean" flags="0xC8040009" value="true">
+		</property>
+		<property name="Enable FC Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable Inline Functions" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable MC/DC Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable MCC Coverage" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Enable Static Functions" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable Static Locals" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Enable User Includes" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Enable const As IN" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Enable setjmp/longjmp" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Endianess" type="String" flags="0x88040029" value="-">
+		</property>
+		<property name="Enum Exclude List" type="String" flags="0x88000009" value="">
+		</property>
+		<property name="Enum Include List" type="String" flags="0x88000009" value="">
+		</property>
+		<property name="Environment" type="String" flags="0x08000009" value="(Default)">
+		</property>
+		<property name="ExeFile Extension" type="String" flags="0xC8040029" value=".exe">
+		</property>
+		<property name="Execute Testcases Separately" type="Boolean" flags="0x48000029" value="false">
+		</property>
+		<property name="Execution Mode" type="Number" flags="0xC8100029" value="0x02">
+		</property>
+		<property name="Execution Timeout" type="Number" flags="0x88000009" value="0">
+		</property>
+		<property name="Execution Timeout Call" type="String" flags="0x88000009" value="">
+		</property>
+		<property name="Float Eval Epsilon" type="Float" flags="0x88000029" value="1.0E-6">
+		</property>
+		<property name="Float Precision" type="Number" flags="0x88000029" value="-1">
+		</property>
+		<property name="Function Stub Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Generate Constructors" type="Boolean" flags="0x88000009" value="true">
+		</property>
+		<property name="Generate Parameter Proxies" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Header File Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Header File Include List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Hide Functions" type="Boolean" flags="0xC8000009" value="false">
+		</property>
+		<property name="Init Code" type="String" flags="0x88100009" value="">
+		</property>
+		<property name="Init Definitions" type="String" flags="0x88100009" value="">
+		</property>
+		<property name="Insert External Stub At Declaration" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Instrumenter Header Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Linker Options" type="String" flags="0x88040009" value="">
+		</property>
+		<property name="MISRA Do While Expressions" type="String" flags="0x88000009" value="0U, false">
+		</property>
+		<property name="Main Type" type="Number" flags="0xC8100029" value="0x11">
+		</property>
+		<property name="Make Call" type="String" flags="0xC8000009" value="+$(MODULEPATH):@:$(Make Command) $(TESSY_MAKE_SILENT) $(Make Options) -f">
+		</property>
+		<property name="Make Command" type="String" flags="0xC8000009" value="mingw32-make.exe">
+		</property>
+		<property name="Make Options" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Make Use One Shell" type="Boolean" flags="0xC8000009" value="false">
+		</property>
+		<property name="Makefile Template" type="File" flags="0x88000039" value="$(TESSY_SYSPATH)\templates\make\ts_make_socket.tpl">
+		</property>
+		<property name="Master Call" type="String" flags="0xC8000029" value="$(MODULEPATH)\ts_$(TESTOBJECT)_m.exe">
+		</property>
+		<property name="Method Stub Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Minimum C0 Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="Minimum C1 Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="Minimum DC Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="Minimum EPC Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="Minimum FC Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="Minimum MC/DC Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="Minimum MCC Coverage" type="Number" flags="0xC8000009" value="100">
+		</property>
+		<property name="ObjFile Extension" type="String" flags="0xC8040029" value=".o">
+		</property>
+		<property name="PROJECTROOT" type="Directory" flags="0x68000089" value="C:\Users\Sowjanya\Projects\TESSY\jenkins_test">
+		</property>
+		<property name="Parser Options" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Preprocessor Call" type="String" flags="0xC8000029" value="gcc.exe $(Compiler Dialect) -E -DTESSY -o $(OUTPUT) $(INPUT)">
+		</property>
+		<property name="Relative Path Variables" type="String" flags="0x88000009" value="">
+		</property>
+		<property name="Scanner Call" type="String" flags="0xC8000009" value="sh.exe tks.sh gcc">
+		</property>
+		<property name="Slave Call" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="TKS Template File" type="File" flags="0xC8000019" value="$(TESSY_SYSPATH)\templates\tks\tks-gnu.tpl">
+		</property>
+		<property name="Target" type="String" flags="0x08000009" value="Eclipse CDT">
+		</property>
+		<property name="Target Concurrency" type="Number" flags="0xC8000089" value="0">
+		</property>
+		<property name="Target Id" type="Number" flags="0xC8100029" value="0x25">
+		</property>
+		<property name="Target Install Path" type="Directory" flags="0x88040009" value="">
+		</property>
+		<property name="Target Version" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Test Object Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Test Object Include List" type="String" flags="0xC8000009" value="">
+		</property>
+		<property name="Time Unit" type="String" flags="0x88000009" value="cycles">
+		</property>
+		<property name="Timer Enabled" type="Boolean" flags="0x88040009" value="false">
+		</property>
+		<property name="Timer File" type="File" flags="0x88040019" value="$(TESSY_SYSPATH)\src\comm\ts_timer_gcc.c">
+		</property>
+		<property name="Timer Prescale" type="Number" flags="0x88000009" value="0">
+		</property>
+		<property name="Timer Resolution" type="Float" flags="0x88000009" value="1.0">
+		</property>
+		<property name="Type Exclude List" type="String" flags="0x88000009" value="">
+		</property>
+		<property name="Type Include List" type="String" flags="0x88000009" value="">
+		</property>
+		<property name="Type Table File" type="File" flags="0xC8000039" value="$(TESSY_SYSPATH)\compiler\typetables\ts_gcc_i386_typetable.xml">
+		</property>
+		<property name="Unit Test" type="Boolean" flags="0xC8000009" value="true">
+		</property>
+		<property name="Use Alias Names" type="Boolean" flags="0x88000009" value="false">
+		</property>
+		<property name="Variable Exclude List" type="String" flags="0xC8000009" value="">
+		</property>
+	</properties>
+	<compiler_options includes="" defines="" commandline=""/>
+	<sources>
+		<source directory="C:\git\TESTPR~1\TESTPR~1" filename="module_test.c" path="C:\git\Testprogram\Testprogram\module_test.c" hide_functions="0">
+			<compiler_options includes="" defines="" commandline=""/>
+			<properties>
+				<property name="Compiler Commandline" type="String" flags="0xC8000009" value="">
+				</property>
+				<property name="Compiler Includes" type="Directory" flags="0x98040009" value="">
+				</property>
+				<property name="Compiler Defines" type="String" flags="0x98040009" value="">
+				</property>
+			</properties>
+		</source>
+	</sources>
+	<testobjects>
+		<testobject name="add" description="" specification="" comment="" id="1028" state_mask="0x08" uuid="7aceaf4b-d683-4995-93f1-54dd348a9cb6" testdata_id="1" type="Normal" testitem_state_mask="0x00">
+			<properties>
+			</properties>
+			<fault_injections>
+			</fault_injections>
+		</testobject>
+	</testobjects>
+</module>

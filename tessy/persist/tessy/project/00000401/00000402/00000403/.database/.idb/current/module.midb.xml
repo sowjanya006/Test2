@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod id="d6a7f5f0-0b18-4437-a1c6-4f0fbdfd7561" lid="4" md5="a983c63314f3b9e6060e6fff889312af" opt="7" ver="21">
+<funcs>
+<func decl="int add()" id="2" md5="7a3cd63315e34d1fb58162ba1f20c538" nam="add" scp="2" src="1" srcid="1" tmd="0x2000000000000000">
+<coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
+<metrics calls="0" depth="1" mccabe="1" stmts="2"/>
+</func>
+</funcs>
+<rfns>
+<func cid="e9498136-d36f-422d-bf4e-d48c10e7bc63" cmp="2" id="3" nam="sub" scp="2" src="2"/>
+</rfns>
+<types/>
+<vars>
+<var id="2" nam="a" scp="2" src="1" tc="10" tmd="0x800000000000000"/>
+<var id="3" nam="b" scp="2" src="1" tc="10" tmd="0x800000000000000"/>
+</vars>
+</mod>

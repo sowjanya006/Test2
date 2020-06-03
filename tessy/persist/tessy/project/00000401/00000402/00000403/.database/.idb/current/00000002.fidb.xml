@@ -1,0 +1,9 @@
+<func nam="add" id="2">
+ <ret id="1" nam="" tc="10" tmd="0x800000000000000" pas="4" ips="4"/>
+ <parms/>
+ <calls/>
+ <vars>
+  <var id="2" nam="a" pas="2" ips="2" scp="2"/>
+  <var id="3" nam="b" pas="2" ips="2" scp="2"/>
+ </vars>
+</func>

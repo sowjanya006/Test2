@@ -1,0 +1,47 @@
+----------------------------------------------------------------
+Tue Jun 02 14:44:28 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0172-744f-8587-000009e89560 
+on database directory C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\ite\edb  with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@6047896b 
+Loaded from file:/C:/Program Files/Razorcat/TESSY_4.2/bin/plugins/org.apache.derby_10.8.2.2_v201605172130.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\PROGRA~1\Razorcat\TESSY_4.2\bin
+derby.system.home=null
+derby.stream.error.file=C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\log\derby.log
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 02 14:44:31 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 2c44c05e-0172-744f-8587-000009e89560 
+on database directory C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\tessy\tessydb  with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@6047896b 
+Loaded from file:/C:/Program Files/Razorcat/TESSY_4.2/bin/plugins/org.apache.derby_10.8.2.2_v201605172130.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\PROGRA~1\Razorcat\TESSY_4.2\bin
+derby.system.home=null
+derby.stream.error.file=C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\log\derby.log
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 02 14:44:34 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 3ad9c0eb-0172-744f-8587-000009e89560 
+on database directory C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\ite\itedb  with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@6047896b 
+Loaded from file:/C:/Program Files/Razorcat/TESSY_4.2/bin/plugins/org.apache.derby_10.8.2.2_v201605172130.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\PROGRA~1\Razorcat\TESSY_4.2\bin
+derby.system.home=null
+derby.stream.error.file=C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\ite\derby.log
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 02 14:44:42 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance 60e601d0-0172-744f-8587-000009e89560 
+on database directory C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\ite\cache  with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@6047896b 
+Loaded from file:/C:/Program Files/Razorcat/TESSY_4.2/bin/plugins/org.apache.derby_10.8.2.2_v201605172130.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\PROGRA~1\Razorcat\TESSY_4.2\bin
+derby.system.home=null
+derby.stream.error.file=C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\ite\derby.log
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 02 15:20:40 IST 2020:
+Shutting down instance 2c44c05e-0172-744f-8587-000009e89560 on database directory C:\Users\Sowjanya\Projects\TESSY\jenkins_test\tessy\persist\tessy\tessydb with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@6047896b 

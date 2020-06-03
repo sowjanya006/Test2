@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testobject name="add" type="0" id="1028" foreign_id="0" testdata_id="1" state_mask="0x08" last_id="0" child_count="0" uuid="7aceaf4b-d683-4995-93f1-54dd348a9cb6" testitem_state_mask="0x00" usercode_state_mask="0x00" last_modified="1591090563728" last_synchronized="0">
+	<version value="4.2.8">
+	</version>
+	<properties>
+	</properties>
+	<testitems>
+	</testitems>
+</testobject>

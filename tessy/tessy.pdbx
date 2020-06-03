@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    backup="$(PROJECTROOT)\tessy\backup"
+    configuration=""
+    database="$(PROJECTROOT)\tessy"
+    defaultEnvironment=""
+    description=""
+    enableSourceRoot="false"
+    identifier="1ac0a041-a31f-4c33-93db-d896322b45be"
+    location="$(PROJECTROOT)\tessy"
+    name="jenkins_test"
+    projectVersion="5"
+    tessyVersion="4.2.8"
+    isTemplate="false"
+    isSample="false"/>
